@@ -48,5 +48,14 @@
     <ClCompile Include="1018_chess.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12865_knapsack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2447_star.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11729_hanoi.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
