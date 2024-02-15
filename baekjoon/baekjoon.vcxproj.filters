@@ -162,5 +162,14 @@
     <ClCompile Include="1010_bridge.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="26069_chongchong.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2108_statistics.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20920_english_word.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
